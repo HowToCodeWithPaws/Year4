@@ -1,0 +1,3 @@
+https://vscode.ru/articles/windows-forms-cpp.html
+https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.datavisualization.charting.chart?view=netframework-4.8.1
+https://stackoverflow.com/questions/73698677/how-do-i-create-an-exe-file-from-c-sharp-using-windows-forms
